@@ -33,7 +33,7 @@ public class App {
                 System.out.println("Sorry "+player.getName()+" you are a losser");
             }
             else{
-                System.out.println("Congratulations "+player.getName()+" you are a winner");
+                System.out.println("Congr a tulations "+player.getName()+" you are a winner");
             }
 
         } catch (IOException e) {
